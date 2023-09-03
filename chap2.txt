@@ -1,0 +1,1 @@
+Always use present tense for commit msgs
