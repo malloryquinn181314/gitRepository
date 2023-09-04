@@ -1,1 +1,3 @@
 Always use present tense for commit msgs
+
+and the enviroment turned somehwat imilar to doraemons aline invasion 
